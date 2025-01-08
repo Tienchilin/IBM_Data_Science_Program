@@ -1,4 +1,4 @@
-# :rocket: Assignment4 : Data Visualization with Python
+# :rocket: Assignment 4: Data Visualization with Python
 The final peer review assignments are in [Course 8: Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization?specialization=ibm-data-science).
 ## :page_facing_up: Project Overview
 ### Analyzing the Impact of Recession on Automobile Sales

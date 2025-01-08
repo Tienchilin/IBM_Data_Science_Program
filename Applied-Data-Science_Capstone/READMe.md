@@ -1,15 +1,10 @@
 # :rocket: Applied Data Science Capstone
 This capstone project is in [Course 10: Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone?specialization=ibm-data-science).
 ## :page_facing_up: Project Overview
-### Analyzing the Impact of Recession on Automobile Sales
-You have been hired by XYZAutomotives as a data scientist. Your first task is to analyze the historical data and give the company directors insights on how the sales were affected during times of recession. You will provide a number of charts/plots to visualize the data and make it easy for the directors to understand your analysis.
+In this capstone, we will predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
 
-### Part 1: Create visualizations using Matplotib, Seaborn & Folium
-The result file is [Part1.ipynb](Assignment4/DV0101EN-Final-Assign-Part1.ipynb).
-#### Objective:
-The objective of this part of the Final Assignment is to analyze the historical trends in automobile sales during recession periods. The goal is to provide insights into how the sales of XYZAutomotives, a company specializing in automotive sales, were affected during times of recession.
-
-In this lab you will create visualizations using Matplotlib, Seaborn, Pandas.
+### Part 1: Data Collection
+The result file is [Data collection with API.ipynb](Applied-Data-Science_Capstone/1_Data_collection_api.ipynb).
 
 ### Part 2: Create Dashboard using Plotly and Dash
 The result file is [Part2.py](Assignment4/DV0101EN-Final-Assign-Part-2-Questions.py).

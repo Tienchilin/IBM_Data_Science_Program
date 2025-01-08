@@ -5,7 +5,7 @@ The repository includes:
 * [Peer-view assignment 2](Assignment2)
 * [Peer-view assignment 3](Assignment3)
 * [Peer-view assignment 4](Assignment4)
-* [Peer-view assignment 1](Applied-Data-Science_Capstone)
+* [Final Capstone Project](Applied-Data-Science_Capstone)
 
 Click [here](Coursera%20Z3HRRXDYWW9Z.pdf) to view the certificate.
 
